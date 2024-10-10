@@ -10,10 +10,6 @@ I'm currently working on a laravel project<br>I'm looking to collaborate on web 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dominichigozie2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominichigozie2&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dominichigozie2&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Dominichigozie2&icon=2&color=0)](https://visitcount.itsvg.in)
 
