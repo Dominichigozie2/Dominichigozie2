@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on a laravel project<br>I'm looking to collaborate on web development projects<br>I'm looking for help with gigs in Web development<br>I am currently learning Python, Reactjs, and Nodejs<br>Ask me about web development-related topics.<br><br>
+Full-Stack Developer and Laravel Lead Developer with 5+ years of hands-on experience turning business ideas into scalable, production-ready digital solutions. I specialize in building robust web applications, e-commerce platforms, business management systems, APIs, and high-performance websites using Laravel, PHP, JavaScript, React, Python, and MySQL. <br><br>
+I bring strong experience across the full development lifecycle—from database architecture and backend engineering to responsive frontend development, API integrations, payment gateways, authentication, deployment, and system optimization**. I have built and contributed to solutions across e-commerce, hosting, business, and service-based platforms, with a focus on creating applications that are not only functional but secure, reliable, scalable, and easy to maintain.
+<br><br>
+As a Laravel lead, I am comfortable taking ownership of technical decisions, solving complex development challenges, integrating third-party services, reviewing and improving code, and working closely with teams to turn requirements into working products. **I combine strong backend engineering with practical frontend skills, allowing me to understand and deliver an entire product rather than just one layer of it. <br><br>
+
+I am passionate about building technology that solves real business problems, improves user experience, and delivers measurable value.
+<br><br>
 
 
 ## 🌐 Socials:
